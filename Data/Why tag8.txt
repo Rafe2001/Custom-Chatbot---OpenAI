@@ -1,0 +1,354 @@
+1. Why tag8?
+
+Why do I need tag8?
+In today’s fast paced life, it is common to lose valuables. The sense of loss is greater if there are memories, emotions, sentiments, hard work associated with the valuables or the loss leaves you totally stranded. tag8 has been launched with a Global Comprehensive Lost & Found Service Ecosystem to significantly increase the possibility of recovering & returning your lost valuables, whether during your international or domestic travel or in your day to day life.
+
+tag8 combines the strength of security tags, baggage tracking WorldTracer Code used in airports across the globe, 24X7 Customer Support Desk, Finder Reward Programs and its partnerships with global logistics majors to ensure that valuables lost are returned in a simple, efficient and cost effective manner.
+
+tag8 has sold over a million security tags to individuals and corporates and has over 80% rate of return across various valuables. tag8 has been awarded the FICCI Travel Tech LaunchPad Award 2018 and has in a short time emerged as a ‘travel essential’.
+
+How does tag8 recover and return lost valuables?
+tag8 has various products like the Passport Finder Case, Bag Security Tag, Key Security Tag, Starter Kit, Digital Phone Tag, etc. Each product comes with a tag with a unique alphanumeric ID and the message “If Found, Return for Reward”.
+
+The lost & found process of tag8 operates as follows:
+Register/ Activate - To use tag8 products, one needs to simply attach or apply the tag to their valuable & register/ activate their tag with us. For details on how to register the tag, refer section "Registration/ activation of tags".
+Reporting Loss - If you lose your valuable, you intimate tag8 about the loss.For details on how to report loss, refer section "Reporting Loss".
+Reporting Find - Alternately, if someone finds your lost valuable, they can see the tag behind it with the message "If Found, Return for Reward" and contact tag8. For details on how to report find, refer section "Reporting Find".
+Rewarding Finder - On receiving intimation of the lost valuable being found, tag8 rewards the Finder for their integrity under its Finder Reward Program.For details on Finders Reward, refer section "Reporting Find".
+Arranging pick up & return - tag8 arranges for pick up of the lost valuable from the Finder anywhere in the world and delivers it back to you at your doorstep.
+
+How does tag8 charge for its lost & found services?
+tag8's products like Passport Finder Case, Bag Security Tag, Key Security Tag, Starter Kit, etc can be purchased by way of one-time payment at the MRP of the product. The cost of the product includes the lost & found recovery services provided by tag8. There is no annual subscription charge for the products except in case of some of our digital products such as the Digital Phone Tag.
+
+In case of loss of an item, the cost of logistics for picking the lost valuable from the Finder and returning it to the Owner is charged to the Owner on an actual basis. For arranging such return, tag8 has tie ups with global logistics companies and therefore avails preferential rates for the logistics. Prior to incurring such cost, tag8 provides an estimate of the same to the Owner and takes prior approval.
+tag8 does not charge any convenience fee for arranging the pick-up and delivery of lost valuables.
+
+Can I put a self-made tag with my contact details on my valuables instead of using tag8?
+Creating your own tag is possible. The advantage of tag8 is that the tags are water-proof, UV protected and use high-quality adhesive to ensure that the valuable is protected at the same time the tag doesn’t peel off.
+In addition, tag8 provides the following advantages:
+Finder Reward Program - incentivizes the Finder to return the lost product.
+Lifetime Lost & Found Service - durable tags, 24X7 Customer Support Desk for the lifetime of the tag.
+Worldwide Cover - worldwide tie ups to facilitate recovery and return of lost valuables.
+Theft-deterrence - presence of tag deters one from stealing.
+Simple, Easy & Cost-Effective.
+Privacy and confidentiality - does not divulge your personal contact information as each tag comes with a unique alphanumeric ID.
+
+
+2. Registration for activation of tag
+
+Does the security tag need to be activated?
+IT IS ESSENTIAL TO REGISTER THE SECURITY TAG IN ORDER TO ACTIVATE THE LOST & FOUND RECOVERY SERVICE.
+
+To register, you need to sign up with tag8, which can be done through any of the following options:
+Website @ www.tag8.in.
+Android app on playstore @ tag8.
+24X7 Customer Support Desk @ 9029008248.
+Whatsapp us on 9029008248.
+Scan the QR code on the tag.
+Google Assistant - 'Talk to Smart Tag'.
+Amazon Alexa - 'Open Smart Tag'.
+After signing up with tag8, to register you need to provide few basic information and your Unique Owner ID to tag8.
+
+What information do I need to have ready for activating the tag?
+The basic information required for activating tag is name, mobile number, alternate contact number, email id, unique Owner ID written on the tag. In case of passport, in addition, you need the passport number and passport expiry date.
+
+Other recommended but optional information is as follows:
+For Bag Security Tag - type of bag (whether suitcase, handbag, backpack, etc), brand and colour.
+For Key Security Tag - type of keys ie whether house keys, car keys, etc. In case of vehicle key - vehicle brand, model.
+For Premium Starter Kit - details of the product – gadget or item, brand, specifications, colour and any other distinguishing factor.
+More detailed information on the valuable significantly increases the ability to identify, track and also establish the Owner's credential vis-a-vis the Finder.
+
+
+Can I change the information once its registered?
+Yes, you can change the information even after registration.
+
+To change the basic information provided by you:
+Login to your account on www.tag8.in
+On the top panel, you will see a tab "Hi, your name". Click on this tab.
+3 options appear - Profile, Change password, Logout.
+Click on Profile and make the relavant changes.
+To change the product specific information provided by you:
+
+Login to your account on www.tag8.in
+Click on the tab "My Tags". It opens a page showing Active Tags.
+Scroll down to the product for which you need to change the information.
+On that product, on the right hand side, you will see the Owner ID and three dots.
+Click on the dots. An option appears to edit the information. Click on "Edit" and make the relevant changes.
+We encourage you to sign into your account regularly and keep your contact information updated. You can also add new items to your list or update the status of individual items.
+
+As a registered user, we advise you to regularly visit our pages on policy and product update. This will allow you to maximize your membership benefits with us.
+
+What is a Unique Owner ID, where will I find it and what is its relevance?
+Each product of tag8 comes with a Unique Owner ID. Owner ID is a 7 digit alphanumeric code (for example TGUD5MB), which is printed on the tag, just below the barcode. Please refer to the images. We register your valuable with us alongwith this Owner ID.
+
+The presence of such Unique Owner ID on the tag helps maintain your privacy as you do not need to provide your contact information on your valuable. In case of loss of valuable, we are able to trace the valuable to you by matching the Unique Owner ID (on the lost valuable) provided by the Finder, with the customer record in our database.
+
+How safe is my personal data with tag8 and does tag8 have the technology to locate the geo position of the valuables that have the tag?
+Your data safety and security is of utmost importance to us. We will not share or provide access to anyone, unless it is required for a regulatory reason or sought by the law enforcement agencies. For a more detailed read on our data and privacy policy, kindly refer to the section on DATA PRIVACY at https://tag8.in/page/terms-and-conditions.
+
+Our digital phone tag for android phones has the provision to directly track the geo location. However, for all other products, the tag8 service relies on the integrity of the Finder, its Finder Reward Program and its network of partners to recover lost valuables as we believe our solution is more effective, practical, cost efficient and maintains privacy.
+
+I am having problems activating my owner ID.
+Your owner ID should have eight characters in alphanumeric combination. Make sure the characters are correctly entered. If you are still having problems to activate, please contact our 24X7 Customer Support Desk at 9029008248 or email us your owner ID at support@tag8.in and we will contact you within 48hours.
+
+How long does it take for activation of the tag after I have signed up and submitted the necessary details?
+The tag gets activated immediately. You can proceed with using the tag8 product on your valuable immediately on registration.
+
+You will also receive a confirmation intimation email as well as SMS on your registered email ID and registered mobile number, respectively. Typically the confirmation should reach you within 48 hours from the time of registration.
+
+I have not got the confirmation email , what do I do?
+Please wait until 48 hours from the time of registration to receive a confirmation intimation email on your registered email ID.
+In case you have not received the intimation within 48 hours, please check the emails under the "Spam" folder.
+If you still do not find an email from us, please contact us at Customer Support Desk @ 9029008248 and we shall manually send a confirmation email to you.
+I haven’t got the confirmation SMS, what do I do?
+Please wait until 48 hours from the time of registration to receive a confirmation SMS on your registered mobile number.
+
+I just received my tag8 product and need to travel today itself. How can I expedite the activation?
+The tag product is activated immediately on registration. You do not need any lead time. Simply activate and start using.
+
+I have lost my valuable which had the tag on. However, I had forgotten to register the valuable with tag8. Can tag8 help me recover the lost valuable?
+In case you can provide us with the unique Owner ID of the lost valuable, we can register your valuable with us with the help of the ID and register a Lost Report. In case the Finder contacts us on finding your lost valuable, we shall assist you with the recovery and return of the valuable.
+
+However, in case you do not have the unique Owner ID of the lost valuable, unfortunately we cannot assist you with the recovery as we have no way of knowing that you are a legitimate customer of tag8.
+
+
+3.Managing the tags
+
+Is the tag durable?
+Yes, the tags have been scientifically designed to overcome practical challenges. The tags are:
+
+Water-proof
+UV protected
+Coated with high-quality adhesive to ensure firm grip with your valuable and prevents peeling.
+
+For how long is the tag valid?
+The tag is valid for its lifetime.
+
+What if my tag breaks or fades?
+All tag8 products come with a one-year warranty. It is designed with sturdy material to endure frequent use and exposure to external conditions. In case the tag cracks, fades or breaks within this period, tag8 will replace the existing tag with a new tag on submission of the existing tag. You can do this by logging into your account and clicking on REPLACE TAG to get a free replacement. Please note your old tag ID will be deactivated from our system once you request a replacement tag.
+
+Is the tag8 product transferable?
+Yes, the tag8 product is transferable In case you transfer the ownership of your tagged valuable, the ownership of the tag can also be transferred. The new owner will activate the tag on his/her name. All you will be required to do is to approve the transfer through the click of a button from your own account.
+
+
+4.Passport Finder Case
+
+How do I secure my passport with the Passport Finder Case?
+For securing your passport, you only need to put your passport in the Passport Finder Case. Simply put the back side of the passport into the right side opening of the case. Be rest assured that the design has been created to ensure that the back side of the passport once put into the right side of the passport case will adequately be secured and will not fall out.
+
+Do not put the entire passport into the right side opening. Please note that at most immigration points, you are required to pull out the passport from the case and hand it over to the authority.
+
+You simply need to REGISTER the passport details and Unique Owner ID with us to ACTIVATE the Lost & Found service and start using the product.
+
+What is your policy for reimbursement in case of loss of passport?
+In case we are unable to recover your lost passport, we reimburse the cost of getting a new passport. For a passport issued by Indian authorities, the amount of reimbursement is equal to the actual cost of obtaining a new passport under the Tatkal Scheme. For passports issued by another country, our reimbursement is for the actual cost incurred in getting a new passport subject to a limit of Rs 10,000.
+
+In case of loss of a Family Passport Finder Case, the reimbursement policy would apply with respect to one passport ie the one that had been registered with tag8.
+
+Documents to be submitted for claiming the reimbursement
+
+Documentary evidence of loss of passport (a copy of FIR or lost report filed with the police or any government authority).
+Copy of application filed for a new passport with the Passport Seva Kendra or foreign passport issuing authority.
+Original receipt of application fee for the new passport.
+The reimbursement is typically made within 7 working days of submitting the completed set of documents.
+
+I have misplaced by passport. I kept it somewhere and I am not able to locate it. Can I claim reimbursement for the cost of getting a new passport?
+No. Our lost & found services are applicable only in case of loss of passport at a public place, where there is a possibility for a Finder to find the passport and contact us for return. Our services do not apply in case you misplace your passport at home or your usual place of stay or have kept it somewhere and cannot find/ recall where you have last seen it. In such a situation, the reimbursement clause shall not apply.
+
+What is the Passport Expiry Alert feature?
+If you are planning to travel overseas and your passport is due to expire in less than a year, you may need to renew your passport. Some countries require that your passport has at least six months validity remaining after your intended departure from the country you are visiting. It is advisable to check with Embassies of the countries you are planning to visit for passport validity requirements.
+
+Therefore, we send you an intimation 1 year before your passport is due to expire and send a reminder for the renewal time to time.
+
+What is the RFID blocking feature in Passport Finder Case?
+RFID stands for Radio Frequency Identification Devices. RFID feature is present in passports of some countries and some credit cards as wafer thin chips to help speed up transactions. These days identity theft via RFID readers is growing. A person with an RFID reader could attempt to steal your credit card number or personal information just walking by you. RFID blocking reduces the readers transmitted signal power, preventing the microchip in the RFID card working, this means your data remains safe.
+
+The RFID Blocking feature in Passport Finder Case prevents stealing of personal Information from the Passport Finder Case. Information in the passport/ credit/ debit cards kept in the Passport Finder Case cannot be scanned by such electronic thieves.
+
+How long does it typically take to find a lost passport?
+Usually, passports are found within 3-4 hours of getting lost. However, since we rely solely on the finder to intimate about the lost passport, we cannot provide a timeline within which the passport may be returned.
+
+My travel insurance covers loss of passport. How is your service different from an insurance policy?
+Insurance gets triggered once the passport is declared lost. Insurance company, based on the specific policy, settles the claims made by the traveller. In case of tag8, the primary objective is to find the lost passport. For a traveller, getting lost passport back is the best case scenario that saves them from changing the travel plans, going through the hassle of getting a travel document from the Embassy that is required to travel back home and the overall mental agony. The lost passport also may have current visas. For several people a passport also has an emotional and sentimental attachment, reflecting the dates of the foreign travel made by the individual.
+
+In addition, typically to claim travel insurance, customer needs to prove that he or she wasn’t negligent. In case of tag8, the reimbursement is subject to fulfilment of the stated condition, no questions asked. Also tag8 services are lifetime, while travel insurance policies correspond to either the specific travel or at best is on an annual plan.
+
+tag8 works with several insurance companies to provide tag8 solutions to their customers, as a Value Added Service.
+
+
+5. Bag Security Tag
+
+How do I secure my bag with the Bag Security Tag?
+tag8 bag tags are made of high performance epoxy tag material. The tags are water-proof and UV protected. The bag tag can simply be attached to your bag at a very prominent spot.
+
+You need to simply REGISTER to ACTIVATE and start using
+
+The lost & found process in case of bags works as follows:
+
+In case of loss of bag inside the airport
+
+You lose the bag with tag8's bag tag.
+The handler sees the bag tag and scans the World Tracer Code.
+tag8 gets an alert of the found bag.
+tag8 coordinates with you & the airport authorities & reunites you with the lost bag.
+In case of loss of bag outside the airport
+
+You lose the bag with tag8's bag tag.
+Someone finds the bag and contacts tag8.
+tag8 rewards the Finder.
+tag8 arranges to pick up the lost bag from Finder & return it to you
+What is the benefit of SITA WordTracer mentioned on the Bag Tag?
+SITA or Société Internationale de Télécommunications Aéronautiques, is a company providing IT and telecommunication services to the air transport industry. The company provides its services to around 400 members and 2,800 customers worldwide which is said to be 90% of the world's airline business.
+
+tag8 is a SITA member. SITA provides the World Tracer software which is used by more than 500 airlines and ground handlers at over 2,800 airports worldwide. Being a global tracing and matching database, it can trace bags faster. The World Tracer software works in the following manner:
+
+When a passenger realises that a luggage is missing at the airport, he files a Property Irregularity Report (PIR) report with the airlines staff, who updates the details of the missing baggage in the World Tracer System. The details such as make and model of bag, colour of bag, description of contents, special identification on bags etc is updated on the system under an AHL (Advise if Holding) file.
+In a similar manner, whenever an airline staff finds a lost baggage, they update similar details of such bag on the system under the category On Hand Baggage (OHD).
+The system then matches the AHL files with the OHD files and the airline baggage tracing staff then picks up the OHD file with highest matching percentage and coordinates with the other airline who has the bag in custody.
+The additional benefit that the tag8 bag tags provide is that the baggage handling staff who finds your lost bag, inputs the tag8 unique Owner ID in the World Tracer system. The World Tracer server sends an intimation to tag8 server about the location of the bag. We then inform our customer and provide the file reference number to the customer, so that the customer can follow-up with the concerned airline for recovery of the lost bag.
+
+If I put tag8 Bag Security Tag on my check-in bag and the bag is lost by airline, can the tag improve the chances of finding my bag?
+Yes. Please refer to our response to Q2 of the Bag Security Tag section.
+
+How would airline staff know that they should enter tag8 unique ID number in the SITA World Tracer system ?
+SITA has issued a notification to all World Tracer coordinators across the globe and created awareness about tag8 bag tags. The airline baggage handling staff are mandated to enter the tag8 unique ID, while creating a report for a bag that has been found by them. The moment the staff enters tag8 unique owner id, the World Tracer server triggers an email to the tag8 server informing us of the location of the bag that is found by the baggage handler.
+
+If a tag8 bag tag is affixed on the check-in bag and I do not receive the bag on arrival, should I inform the airline staff who files the missing bag complaint, about your tag8 bag tag ?
+Yes. You should provide the unique id of your tag8 bag tag to the airline staff filing the missing bag complaint. Once they enter the unique bag tag details on the SITA World tracer system, it improves the chances of locating your bag.
+
+If I register the bag tag in my name, can anyone else in my family also use it?
+Yes, the bag tag can be used by anyone in your family. However, it is advisable to update on our website the details of the bag being secured by the tag.
+
+Also, in case the bag with this tag is lost by your family member and found by someone, the intimation will be sent on your number which is registered with us.
+
+My travel insurance covers loss of bag. How is your service different from an insurance policy?
+Insurance gets triggered once the bag is declared lost. Insurance company, based on the specific policy, settles the claims made by the traveller. In case of tag8, the primary objective is to find the lost bag. For a traveller, getting lost bag back is the best case scenario that saves them from losing their unique and irreplaceable valuables and the inconvenience of going through the process of making claims with insurance companies or airlines and substantiating the contents of the bag. In many cases, the compensation is not felt to be commensurate with the value of the lost items and even where it is, the entire process of repurchasing those lost items is a hassle in itself. Further, sometimes people carry important documents or valuables holding sentimental value and no monetary claim can compensate one for loss of the same.
+
+Also tag8 services are lifetime, while travel insurance policies correspond to either the specific travel or at best is on an annual plan. tag8 works with several insurance companies to provide tag8 solutions to their customers, as a Value Added Service.
+
+
+6. Key Security Tag
+
+My travel insurance covers loss of bag. How is your service different from an insurance policy?
+
+tag8 key tags are made of high performance epoxy tag material. The tags are water-proof and UV protected. The key tag can be simply attached to your keys.
+
+You need to simply REGISTER to ACTIVATE and start using.
+
+
+7. Starter Kit
+
+What does the Starter Kit comprise of?
+Starter Kit is a set of 8 tags carefully designed to securevaluables that lend themselves well to tagging:
+Electronic gadgets such as mobile phones, laptops, tablets, cameras and accessories, MP3 players and head set, USB drives.
+Items of daily use such as watches, sunglasses, wallets, text books, important documents including medical records and legal documents.
+Sports equipment including golf clubs, sports bag, racquets, helmet, hockey sticks, gloves or even your child’s favourite toy.
+Musical instruments.
+
+How do I apply the tags in the Starter Kit to my belongings?
+The tags in the Starter Kit are stick-on tags. Please take into consideration the following while applying tags to the valuable.
+
+Make sure the surface area of the registered valuable is clean.
+Do not place the tag in a cluttered place in the midst of labels or stickers; this will hamper the visibility of the tag.
+Carefully peel off the tag from its holder, apply it on a flat surface of your valuable away from any other tags and press firmly to seal the adhesive.
+Make sure it is does not get stuck to any of the corners, to a curved or sharp surface or edge. You run the risk of the tag not being effective when it tears or comes off.
+3 hours should be allowed for maximum adhesion to the product.
+
+Will the tag spoil the surface of my product?
+The material of the tag and the adhesive are internationally tested for quality purposes. Results have proven that the efficacy of the product will not be compromised. Also, the tag enjoys transferable ownership, and hence there is no need to peel off the tag even if you are selling the valuable or passing it on.
+
+
+8. Reporting Losss
+
+Is the tag8 service available globally?
+Yes, tag8 is a global lost and found recovery service. We pick up your lost valuable from any corner of the world that you may have misplaced it and deliver to your home location or any other location of your choice.
+
+What should I do in case I lose my product?
+We encourage you to immediately report the loss of your valuable to tag8, with as much information as can be provided from your end. You can report the loss through any of the following options:
+Website @ www.tag8.in.
+Android app on playstore @ tag8.
+24X7 Customer Support Desk @ 9029008248.
+Google Assistant - 'Talk to Smart Tag'.
+Amazon Alexa - 'Open Smart Tag'.
+If you have the latest photograph of the lost item the search is rendered easier. We also encourage you to supplement our Finder Reward program, as may be relevant.
+
+Further, if you have lost a bag in the airline custody, then provide the airline with the unique Owner ID while you file the missing bag report.
+
+How to report loss to tag8?
+You can report the loss to tag8 through any of the following options:
+
+Go to http://tag8.in and login with your credentials.
+When you login, our Home page will appear. Click on your name which appears next to the ‘My tags’ tab.
+Click on ‘Profile’.
+Now, at the left side there will be options such as my tags, activate tags, transfer tags and so on.
+Click on my tags, my tags option will expand. Click on active tags.
+Go to that asset which is lost.
+There are three dots at the right side corner of every asset, click on those three dots. Then, click on Report lost and give all your lost details and report the loss.
+Reporting loss on tag8 android app on your mobile
+
+Download Our tag8 app and signin with your details
+After successful verification, login into the app.
+You will see three tabs - activate tag, report found, report Lost
+Click on “Report Lost”, Then, give all your lost details and report the loss.
+Reporting loss through Alexa : This section shall be updated shortly.
+
+Reporting loss through Googleassist
+Open Google Assistant and speak ‘Talk to Smart tag’
+Say "lost" for reporting a lost item. You will be asked to select the type of tag which has been lost. For example, passport tag, bag tag, key tag.
+You will be prompted to state certain details such as phone number, last location and Owner ID.
+The assistant shall give you a confirmation message.
+
+What if I am unable to report loss of a registered product immediately?
+It is okay even if you don’t report the loss immediately. The moment the Finder calls in with details of your valuable, we will verify the condition of the valuable and the rest of the process will remain the same.
+However, in order to expedite search for your valuable via our network, we urge each user to immediately register ‘Lost’ valuable through their account or our call centre.
+
+What is the return rate for lost items?
+Our Finder Reward Program has registered a return of over 80% on several categories of lost valuables.
+
+
+9. Stores
+
+Is there a Cash on Delivery available? Or What is the maximum amount of shopping to be done to avail COD?
+No, Cash on delivery option is not available on our website store.
+
+Are tag8 products available on Flipkart and Amazon?
+Yes tag8 products are available on flipkart and amazon.You can find this link on our website store https://tag8.in/#tag8store
+
+
+10. NFC FEATURE
+
+What is the NFC feature in tag8 products?
+NFC refers to Near Field Communication (NFC) feature. Many mobile handsets are enabled with NFC feature. NFC enabled device allows wireless communication with NFC tag that comes in up to 10 cm range. NFC tags are passive chips which are powered by radio frequency of the reading device. NFC tags can be used for a large number of customized applications for productivity, utility or sheer fun!
+Our products come with NFC tags. When a person taps their NFC enabled phone on the NFC icon on our tag, the tag8 website gets opened on their screen.
+
+Note: You can check if your mobile phone has NFC by checking the Phone Setting Settings>Wireless & Networking>More. If NFC is listed, it should be turned on for use. You would need to download an NFC writer - Android App (there are plenty in Android App Store e.g. NFC Tasker, Tag Writer etc.)
+
+
+
+
+
+
+
+
+Features:
+Finder Reward Program
+We value the honesty and integrity of the Finder and offer rewards for returning the valuables to its rightful owner. We offer sponsored gifts, tag8 products and a recognition certificate as rewards to the Finder. We also encourage owners to offer an optional monetary reward to the Finder.
+
+Lifetime Service
+Our lost & found service, including the Finder Reward Program, is valid for the life of the tag. Our website, mobile application and customer support desk are available 24X7 to promptly respond to lost or found reports.
+
+Worldwide Cover
+By using tag8, your valuable becomes a part of the leading global lost & found network. Once a valuable is reported found, tag8 will take the following actions to ensure that the valuable is returned to the owner in the quickest possible time:
+
+Theft-Deterrence
+Our tags have been prominently displayed the Owner ID and Finder Reward Program. This increases the probability of the Finder taking the initiative to return. Ownership details also help law enforcement agencies verify and reach the owner with ease.
+
+Simple, Easy & Cost-Effective
+We simplify securing ownership of your valuables in 2 easy steps ie attaching the tags to your valuables and registering them with us. On being intimated of your valuable being found, we manage the rest for you, from coordinating with the Finder, logistics of return to rewarding the Finder. Our service is simple, easy & cost-effective.
+
+Privacy And Confidentiality
+We ensure you and the Finder only interact with our professional team. The tag’s Owner ID ensures your identity remains confidential. Finders who are skeptical of dealing with Owners directly also find comfort in our Confidentiality promise, increasing chances of your valuable being returned.
+
+Manage Product Warranty
+Your tag8 account dashboard will also help you manage warranties of multiple products, receive expiry alerts and trigger warranty claims. Enjoy the convenience of having an Authorised Service Provider contact you.
+

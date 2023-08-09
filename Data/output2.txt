@@ -1,0 +1,310 @@
+Amazon Questions and Answers
+
+Bag Tag
+
+How we receive alerts, if there is no network connection available in airports, how will they contact us?
+At the time of registering your Bag Tag, tag8 asks for an alternative contact number from the customer. This ensures, that in case the primary number is not reachable, we can connect with you on the alternative number provided. Both the primary and the alternative phone numbers can be changed at any point of time. Further, in addition to phone calls, we also send out emails, SMS and WhatsApp messages. Separately, with respect to baggage lost at the airport, it is pertinent to note that it is the responsibility of the airline to ensure that a tracked bag is safely returned to the owner.
+Does this have 2 tags? Or just 1?
+The Bag Tag is available in two options, the first has one Bag Tag, however, we also have a combo pack with 2 Bag Tags available on Amazon or on the tag8 website www.tag8.in.
+  
+
+
+
+
+
+
+Digital Tag
+     
+Does it work for an iPhone?
+No, the Digital Tag currently works only with Android smartphones and tablets.
+
+What is the range of this?
+
+tag8’s Digital Tag has two components: the physical tag and an annual premium subscription to the tag8 mobile application (Find my phone—Digital Tag) that can be downloaded from the Google Play Store.
+
+The physical tag has a unique alphanumeric Owner ID and also the 24x7 tag8 Customer Support Number printed on it. This is particularly useful if the battery of the lost phone has drained out, as the information on the physical tag helps the Finder to contact tag8 to return the phone.
+
+The second component is the tag8 Digital Tag mobile application (Find my phone—Digital Tag). This is a phone tracking and anti-theft app which has an inbuilt stealth mode feature. It allows you to track your phone, without range being a limitation. 
+
+What is the annual subscription amount?
+
+The Digital Tag comes with 1-year premium subscription to tag8’s mobile application (Find my phone—Digital Tag) along with a lifetime lost & found service. The premium membership renewal charge of the Digital Tag app is Rs. 499 per year. For details on which particular subscription will best suit your needs, please visit our website  or .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOLPHIN
+
+Is a sim card required for GPS tracking?
+No, the DOLPHIN Smart Tracker doesn’t require a SIM card. The GPS location is fetched from the mobile phone that needs to be connected to DOLPHIN.  In a case where DOLPHIN is disconnected from the mobile phone, the last seen GPS location of DOLPHIN—at the point of getting disconnected from the mobile phone—will be visible on the map available on the tag8 Tracker app.  
+
+How do I find my lost valuable?
+
+Open the tag8 Tracker app and click on the connected valuable. Then click on RING to ring your valuable and find it. If you are unable to hear the ring of DOLPHIN, you can still watch the green circles increasing as you get closer to DOLPHIN. If, on the other hand, you are moving away from DOLPHIN, the green circles will decrease.
+In case your valuable is lost beyond DOLPHIN’s Bluetooth range, you can see the last seen GPS location on the map. If you are unable to find your valuable, you can mark it as ‘Lost’ by clicking on ‘Mark as Lost’ on the app. This activates community search. Whenever a user of the tag8 Tracker app comes within the range of your lost valuable, the tag8 Tracker app on their phone updates the location of DOLPHIN on your phone, from the backend, without disturbing the user. The app then notifies you of the updated location of your lost valuable.
+Please note: You can find the device only when it is connected to your phone via Bluetooth.
+
+How do I get started with DOLPHIN?
+
+First, download the tag8 Tracker app from the App Store or Google Play or scan QR code to download (link pending and change app icon in QR).	 Next, turn on Bluetooth (make sure your phone’s Bluetooth is switched on). Then sign in with your Google account. Last, pair DOLPHIN to your phone: make sure to turn on your phone’s Bluetooth; hold DOLPHIN close to your phone. It should be within 4 inches (10 cms); click on Device List (+) to add DOLPHIN to the app; hold the button on the DOLPHIN till you hear a beep and the LED light starts flashing; tap NEXT; choose the image of the valuable you are securing—keys/wallet/device or your pet and click on .
+
+DOLPHIN securing your valuable is now paired with your phone. 
+
+Can Dolphin be used for vehicle tracking?
+
+You can attach the DOLPHIN Smart Tracker with anything you want to track. DOLPHIN is a Bluetooth device and works best within a range of 100 feet or 30 metres. Bluetooth as a technology is different from GPS and DOLPHIN being a Bluetooth device does not provide live-tracking updates as a GPS device does. In case you are looking to track your vehicle on a live basis, you would be better equipped for that with a GPS tracker, though in most basement parking lots, especially those with more than one floor, the GPS tracker will not be of much use.
+
+However, DOLPHIN also has its own uses, especially if you are prone to forgetting where you parked your car. If you leave DOLPHIN in your parked car, you can locate where you had parked your car when you enter the parking lot or that particular floor in a multi-level parking garage. As long as you are within the 100 feet range, your phone will send an alert as soon as it comes within the range of the car, and you can also see the green circles increasing as you near your car. Alternately, you could simply view the last seen GPS location of DOLPHIN on the map and walk towards that direction.
+
+If once it is disconnected and in the process of searching if both the tracker and phone get closer. Will they be connected again and indicate user?
+
+Yes, when DOLPHIN is within the Bluetooth range of the phone, the screen shows that DOLPHIN is connected to the phone. The more green signals you see on the screen, the stronger the signal is and that means the closer you are to DOLPHIN. The lesser the green signals, the greater the distance between DOLPHIN and the phone. So, when you are looking for your lost valuables and the green circles start increasing on the phone, it means you are getting closer to your valuable. However, please note that the strength of Bluetooth signals may get impacted by obstructions in the environment
+
+Does it have a user replaceable battery?
+
+Yes, DOLPHIN uses a replaceable coin/button battery (model CR2016). The battery can be replaced simply by opening the case and using the notch to pull it open. Remove the old battery and slip in a new battery. Place the case in position and press to close it. You are now ready to use it for another 6-8 months, depending on usage.
+
+If once the phone is disconnected. Can it be connected again if I go nearer within 100 feet again?
+
+Yes, when DOLPHIN is within the Bluetooth range of the phone, the screen shows that DOLPHIN is connected to the phone. The more green signals you see on the screen, the stronger the signal is and that means the closer you are to DOLPHIN. The lesser the green signals, the greater the distance between DOLPHIN and the phone. So, when you are looking for your lost valuables and the green circles start increasing on the phone, it means you are getting closer to your valuable. However, please note that the strength of Bluetooth signals may get impacted by the obstructions in the environment
+
+Does this really have GPS?
+
+The DOLPHIN Smart Tracker leverages the GPS of your mobile device through its mobile application and BLE (Bluetooth Low Energy) connection. In this way, users are able to track the GPS coordinates of the DOLPHIN Smart Tracker.
+
+Also, when the user is within 100 feet of the DOLPHIN Smart Tracker and unable to locate it, the Near/Far/Very Far indicator or ring feature is available on the tag8 Tracker app to pinpoint the location of the beacon. 
+
+Till what distance does the GPS location work from me?
+
+DOLPHIN is a Bluetooth device which tracks your valuable within the Bluetooth range which is typically 100 feet or 30 metres. The GPS location of DOLPHIN is available real-time; even when the phone is disconnected, the last seen location is available.
+
+Does this product have a loud alarm, and is there any hardware button on the wallet?
+
+The DOLPHIN Smart Tracker attached to the Smart Wallet has an alarm with a sound level of 80 decibels. For your reference on how loud that is, normal conversation is about 60 decibels, and a motorcycle engine is around 95 decibels.
+
+We have two options of placing the DOLPHIN Smart Tracker inside the wallet: 
+First, inside the coin pocket 
+Second, fastened on a rivet to hang inside the fold (more audible in noisier environments)
+
+There is a hardware button on DOLPHIN which allows the user to ring the phone or turn the tracker on/off when disconnected.
+
+Can I used this as a dog tracker? And is it waterproof?
+
+Yes, the DOLPHIN Smart Tracker is extensively used for providing timely separation alerts to the pet parent. The separation distance can be configured and can be set for up to 100 feet (this distance may vary a little, depending on the phone model). You can also ring the tracker with a click on the mobile app when required. DOLPHIN also provides pet-friendly features (e.g., ringing the alarm only on the mobile and turning off alarms on the tracker, so as to not disturb your pet; turning off the alarms in safe wi-fi zones like your home; or snoozing the alarms during certain hours, it is water-resistant and splash-proof—IP44 compliant). In case your pet has moved beyond the Bluetooth range, the app will provide its last available GPS position at the time of separation.
+
+The DOLPHIN Smart Tracker is water-resistant and splash-proof (IP44 compliant).
+
+If someone steals my phone and turns it off, what can I do at this stage?  
+The DOLPHIN Smart Tracker comes with a separation alarm feature. This alarm will go off immediately on separation (whether the phone is switched off or the phone goes out of range). In addition, for android phones, tag8 also offers an android mobile app, the Find my phone: Digital Tag that specifically helps you in securing your phone and assists you in getting it back. This works independent of the DOLPHIN Smart Tracker.
+
+How long a distance can it track?
+The separation distance can be configured and can be set for up to 100 feet (this distance may vary a little based on phone models).
+
+It is showing perfect location and is a world tracker. I mean it works everywhere does it not?
+Yes, the DOLPHIN will work anywhere in the world. It works on BLE (Bluetooth Low Energy) technology in conjunction with your smartphone.
+
+Can it be used for luggage at airports?
+
+The DOLPHIN Smart Tracker is extensively used while travelling by air.
+
+For cabin baggage, it helps to ensure that at any point, including while on the flight, you can ring DOLPHIN to easily find your bag. For checked-in baggage, at the conveyor belt, immediately on coming within the range of the DOLPHIN, the luggage can be tracked on your mobile phone. DOLPHIN will indicate how close one is to the luggage. This will ensure you do not need to jostle or queue up at the conveyor belt to find your luggage. In addition, a separation alert goes off for both cabin and checked-in baggage if it moves out of range, thereby securing you from not only theft but also from forgetting your baggage.
+
+Can I use it for my cycle?
+Yes, Dolphin can be used for your bicycle. Simply attach the Dolphin Smart Tracker to your bicycle and as long as you are within DOLPHIN’s Bluetooth range, you will be able to track it. However, DOLPHIN is not suitable if you need a solution for tracking at a longer range. 
+Please note: You can find the bicycle only as long as no one removes DOLPHIN from the bicycle.
+
+Is it helpful for locating Dementia Wanderers?
+
+The DOLPHIN Smart Tracker is used extensively for providing timely separation alerts.  This alert is trigged within a range of 100 feet.  Thus, if the objective is to keep tab of your loved one who needs special assistance and is within a close range, then you could consider using DOLPHIN. However, DOLPHIN is not suitable if you need a solution for tracking at a longer range. 
+ The tag8 Tracker app for DOLPHIN also has a mark as lost button that activates the community search feature, at which point any device running the tag8 Tracker app will anonymously join in the search to locate the person.  You will receive an alert notification on your mobile phone as soon as the person makes contact.
+However, at this stage, we do not recommend relying on the community search feature when it comes to locating Dementia Wanderers.  At best it can be an additional tracking solution.
+
+How to use it for cat?
+
+Yes, the DOLPHIN Smart Tracker can be used on cats.  Simply pair the DOLPHIN with your phone and attach it to the cat’s collar.  A separation distance can be configured and can be set for up to 100 feet (this distance may vary a little with phone models).  If your cat ever goes beyond the set range, the separation alert will immediately be trigged on your phone.  Further, the last seen GPS location will also be available. You can ring the DOLPHIN with a click on the mobile app when required to track your cat. 
+DOLPHIN also provides other pet-friendly features (i.e., ringing alarm only on your phone and turning off alarms on the tracker, so as to not disturb the pet, turning off the alarms in safe Wi-Fi zones, or snoozing the alarms during certain hours, it is water-resistant and splash-proof—IP44 compliant). 
+
+
+Is tracker embedded in the wallet or is it removable?
+
+The DOLPHIN Smart Tracker is not embedded in the wallet. There are two options of placing the DOLPHIN Smart Tracker inside the wallet: first, inside the coin pocket and second, fastened on a rivet to hang inside the fold (more audible in noisier environments).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key Tag
+   
+Is it compatible with iPhone?
+No, it is not. tag8’s service relies on the integrity of the Finder, its Finder Reward Programme and its network of partners to track products. 
+If you are looking for a solution to secure your iPhone, please look at the Find my phone: Digital Tag app on the tag8 website www.tag8.in. 
+This is used for live tracking?
+The tag8 service relies on the integrity of the Finder, its Finder Reward Programme and its network of partners to track products; it does not have the provision to directly locate the geoposition of the product. tag8 does have access to several Bluetooth Low Energy (BLE) as well as GPS solutions for tracking and is closely monitoring the development of these technologies from a practical daily usability and cost standpoint. However, we believe our solution is more effective, practical and cost effective.
+                       
+Does it work in India only? 
+No, tag8 is a global Lost & Found recovery service. We pick up your lost valuable from anywhere in the world and deliver to your home or any other location of your choice.
+
+Any charges after activation?
+No, there is no activation charge except for the one-time payment of purchasing the tag.   
+
+In addition to the one-time purchase amount, in the case where tag8 arranges for pick-up of the lost valuable from the Finder and delivers it to the Owner, the cost of logistics is charged to the Owner on actual. Due to the tie ups with global logistics companies, tag8 gets a preferential rate. Prior to incurring any such cost, tag8 provides an estimate to the Owner and gets their approval. 
+
+tag8 does not charge a convenience fee for arranging the pick-up and delivery of lost valuables  
+
+How we will track if the keys are misplaced somewhere in the house?
+
+For this we would recommend tag8’s DOLPHIN Smart Tracker. 
+You can attach the DOLPHIN Smart Tracker with anything you want to track. DOLPHIN is a Bluetooth device and works best within a range of 100 feet or 30 metres. Bluetooth as a technology is different from GPS and DOLPHIN being a Bluetooth device does not provide live-tracking updates as a GPS device does. In case you are looking to track your keys on a live basis, you would be better equipped for that with a GPS tracker, though in most places, especially those with more than one floor, the GPS tracker will not be of much use.
+
+However, DOLPHIN also has its own uses, especially if you are prone to forgetting where you left your key. If you leave DOLPHIN in your home, you can locate where you had left it when you enter your home or that particular floor in a multi-level home. As long as you are within the 100 feet range, your phone will send an alert as soon as it comes within the range of the keys, and you can also see the green circles increasing as you near your keys. Alternately, you could simply view the last seen GPS location of DOLPHIN on the map and walk towards that direction.
+
+Does it work on GPS or bluetooth?
+Neither. The tag8 service relies on the integrity of the Finder, its Finder Reward Programme and its network of partners to track products. tag8 does have access to several Bluetooth Low Energy (BLE) as well as GPS solutions for tracking and is closely monitoring the development of these technologies from a practical daily usability and cost standpoint. However, we believe our solution is more effective, practical and cost effective.
+
+Does this really works? How to find lost keys?
+Yes, we have an 80%+ return rate. 
+The key security tag can simply be attached to your keys. Thereafter, register and activate the keys with tag8 by providing the necessary information and the unique Owner ID number on the key tag. The Lost & Found process in the case of key tags works as follows: You lose the key with tag8’s key tag; someone finds the key and contacts tag8; tag8 arranges to pick up the lost key from the Finder and returns it to you; tag8 rewards the Finder.
+
+Can it be used for tracking pets?
+No, it cannot be used for tracking pets. We would recommend the genie Smart Tag for pets or the DOLPHIN Smart Tracker for this.
+
+Is it waterproof or water resistant? any ingres protection rating (ip rating)?
+It is water-resistant and splash-proof—IP44 compliant.
+
+Does this tag beeps when attached to a lost keys?
+
+No, the tag does not beep when attached to keys.
+
+
+
+
+
+
+Passport Finder Case
+
+
+
+
+Can it hold 2 passports at a time?
+ Yes, you can also put two passports in the same Passport Finder Case, one under each flap.
+
+How does this work? Is the case having GPS?
+No, the Passport Finder Case does not have a GPS tracker. The tag has a unique alphanumeric ID along with a ‘If Found, Return for Reward’ message.  On finding the lost valuable, the Finder has six ways (i.e., phone call, WhatsApp message, scan QR code, drop message on  or tag8 app or connect through Google Assistant) to connect with the tag8 24x7 Customer Support Desk. On receiving the information, team tag8 immediately connects with the Finder and arranges to have the valuable picked up and delivered back to the doorstep of the Owner, from anywhere in the world. tag8 rewards the Finder for their integrity under its Finder Reward Programme. 
+In case you are using a Smart Passport Case with DOLPHIN, you can use the tag8 tracker app to find your passport as soon as you realise you have lost it. All you need to do is pair your phone with DOLPHIN (a Bluetooth device which tracks your valuable within the Bluetooth range which is typically 100 feet or 30 metres). DOLPHIN helps you find your valuable, when misplaced, or alerts you if you are leaving it behind, or it is moving away from you. In case your valuable is out of range, you can view the last recorded GPS location or mark your valuable as lost, to activate community search. Every phone running the tag8 Tracker app joins in to help you find your valuable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Starter Kit
+ 
+What happen in case my Item is Theft by someone?
+We primarily rely on the Finder to return your lost valuables. Therefore, in case of a theft (especially if it’s a gadget), the chances of your valuable being returned are slim—unless it is an item like a wallet, wherein the thief may steal the cash and throw the wallet, to be found and returned by a good Samaritan. 
+To secure your valuable specifically from theft, you can get the tag8 DOLPHIN Smart Tracker. All you need to do is pair your phone with DOLPHIN (a Bluetooth device which tracks your valuable within the Bluetooth range which is typically 100 feet or 30 metres). DOLPHIN helps you find your valuable, when misplaced, or alerts you if you are leaving it behind, or it is moving away from you. In case your valuable is out of range, you can view the last recorded GPS location or mark your valuable as lost, to activate community search. Every phone running the tag8 Tracker app joins in to help you find your valuable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smart Wallet
+     
+Battery Life?
+The tag8 DOLPHIN Smart Tracker attached to the Smart Wallet has a replaceable coin/button battery. The default battery life is 12-18 months, while the average battery life is over 6 months. The battery life varies depending on the usage. When needed, you can replace the battery (model CR2016) with a new one which will cost approximately Rs. 25 to Rs. 30.
+
+Is the location tracking through Bluetooth or GPS?
+The location tracking is through Bluetooth. Turn on Bluetooth and pair the DOLPHIN Smart Tracker (attached to your wallet) to your phone by holding DOLPHIN close to your phone. Allow access to location on your phone. In case your valuable is lost beyond DOLPHIN’s Bluetooth range, you can see the last seen GPS location on the map.
+
+Does this product have a loud alarm, and is there any hardware button on the wallet?
+The DOLPHIN Smart Tracker attached to the Smart Wallet has an alarm with a sound level of 80 decibels. For your reference on how loud that is, normal conversation is about 60 decibels, and a motorcycle engine is around 95 decibels.
+
+We have two options of placing the DOLPHIN Smart Tracker inside the wallet: 
+First, inside the coin pocket 
+Second, fastened on a rivet to hang inside the fold (more audible in noisier environments)
+There is a hardware button on DOLPHIN which allows the user to ring the phone or turn the tracker on/off when disconnected.
+
+Up to what distance we can track the wallet? 
+
+tag8’s DOLPHIN Smart Tracker attached to the Smart Wallet is a Bluetooth device which tracks your valuable within the Bluetooth range which is typically 100 feet or 30 metres. The GPS location of the Smart Wallet is available real-time; even when the phone is disconnected, the last seen location is available.
+If you are unable to find your valuable, you can mark it as ‘Lost’ by clicking on ‘Mark as Lost’ on the app. This activates community search. Whenever a user of the tag8 Tracker app comes within the range of your lost valuable, the tag8 Tracker app on their phone updates the location of DOLPHIN on your phone, from the backend, without disturbing the user. The app then notifies you of the updated location of your lost valuable.
+
+
+Which leather?
+We use soft Nappa premium sheepskin leather. Nappa leather provides a higher degree of luxury as it is soft and smooth to the touch. The leather retains the beauty of the original hide but is extremely flexible and does not crease. Nappa leather is used for high-end luxury goods like wallets, jackets and bags.
+
+If I gift it to someone and attach wallet with my smartphone, can I track his location if he carries the wallet?
+The DOLPHIN Smart Tracker in the Smart Wallet is used extensively for providing timely separation alerts.  This alert is trigged within a range of 30 metres.  Thus, if the objective is to keep tab of someone who is within a close range, then you could consider using DOLPHIN. However, DOLPHIN is not suitable if you need a solution for tracking at a longer range.  
+The tag8 Tracker app for DOLPHIN also has a mark as lost button that activates the community search feature, at which point any device running the tag8 Tracker app will anonymously join in the search to locate the person. You will receive an alert notification on your mobile phone as soon as the person makes contact.
+However, we do not recommend relying on the community search feature when it comes to locating a person.  At best it can be an additional tracking solution.
+
+If thief will steal my Cards and cash from the smart wallet and keep the wallet at the same place as it is, then what will happen, will I get it back?
+The Smart Wallet Tracker is a next generation solution that helps you find your wallet when it’s misplaced and also safeguards it from the theft of digital data stored in the cards carried in your wallet. The DOLPHIN Smart Tracker in the Smart Wallet is used extensively for providing timely separation alerts.  This alert is trigged within a range of 30 metres. The GPS location of the Smart Wallet is available real-time; even when the phone is disconnected, the last seen location is available.
+If you are unable to find your valuable, you can mark it as ‘Lost’ by clicking on ‘Mark as Lost’ on the app. This activates community search. Whenever a user of the tag8 Tracker app comes within the range of your lost valuable, the tag8 Tracker app on their phone updates the location of DOLPHIN on your phone, from the backend, without disturbing the user. The app then notifies you of the updated location of your lost valuable.
+However, we cannot get your cash and cards back in case someone decides to remove them from your wallet.
+
+Size of the tag8 wallet?
+  The wallet’s size is 5.5 inches x 3.9 inches.
+
+Is tracker embedded in the wallet or is it removable?
+
+The DOLPHIN Smart Tracker is not embedded in the wallet. There are two options of placing the DOLPHIN Smart Tracker inside the wallet: first, inside the coin pocket and second, fastened on a rivet to hang inside the fold (more audible in noisier environments).
+

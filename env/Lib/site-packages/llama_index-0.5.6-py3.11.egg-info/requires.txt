@@ -1,0 +1,7 @@
+dataclasses_json
+langchain
+numpy
+tenacity<9.0.0,>=8.2.0
+openai>=0.26.4
+pandas
+tiktoken

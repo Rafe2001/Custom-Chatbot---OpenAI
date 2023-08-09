@@ -1,0 +1,772 @@
+tag8 was founded in 2015
+Headquarters of tag8 is in Mumbai, Maharashtra
+Specialties
+Lost & Found Recovery Service - White labelled Service for Businesses, Resource Management - Ensure Consistent Process Adherence, Smart Asset Management - Verification of Company Assets Made Easy, Warranty Management - Improve warranty program effectiveness, and Internet Of Things
+Locations:
+3Y Ventures LLP
+301, A to Z Industrial Estate, Ganpatrao Kadam Marg, Lower Parel West, Mumbai, Maharashatra 400013, IN.
+
+Co-Founders of tag8 are Alok Sheth and Sanjay Chakrabarti.
+
+
+
+
+
+WHY tag8?
+
+Why do I need tag8?
+
+tag8 is a global track and trace company that secures valuables and ‘Make Finding Smarter’. You could use tag8 to secure your daily routine items such as phone, wallet, key, laptop and also to secure your travel items such as passport, bag, camera.  So, while you are occupied in your pursuits, tag8 ensures that your valuables are secured.  tag8 also secures your pet.  
+tag8 combines the strength of security tags, technology (QR code, Bluetooth, GPS), baggage tracking (WorldTracer Code) used in airports across the globe, Finder Reward Programmes and its partnerships with global logistics majors to secure your valuables.  Trusted with over 0.7 million registered valuables, tag8 has an 80%+ return rate across different categories of products.
+
+How does tag8 help recover and/or return misplaced or lost valuables?
+
+tag8 deploys a host of product-specific solutions to secure respective valuables.  The manner of working of each of the solutions is as follows.  
+
+Lost & Found Tags <To know more on technology, click here LINK TO OUR TECHNOLOGIES LP>
+The Lost & Found tags primarily rely on the Finder to return your lost valuables. 
+The Lost & Found tag has a unique alphanumeric ID along with a ‘If Found, Return for Reward’ message. On finding the lost valuable, the Finder has six ways (i.e., phone call, WhatsApp message, scan QR code, drop message on  or tag8 app or connect through Google Assistant) to connect with the tag8 24x7 Customer Support Desk. On receiving the information, team tag8 immediately connects with the Finder and arranges to have the valuable picked up and delivered back to the doorstep of the Owner, from anywhere in the world. tag8 rewards the Finder for their integrity under its Finder Reward Programme. 
+The Lost & Found pet tag (i.e., genie mart ag) is an exception to this.  In this case, the Finder scans the QR code on the genie smart tag, to directly connect with the pet parent.  On scan, the pet parent also receives the GPS location of the Finder.  There is no intervention from tag8.  
+tag8 uses varied technology for securing their applications—passport <LINK TO LP>, bag <LINK TO LP>, key <LINK TO LP>, gadgets <LINK TO LP >, wallet <LINK TO LP> and pet <LINK TO LP>.
+Dolphin Smart Trackers (leveraging Bluetooth Low Energy, i.e., BLE)<To know more on technology, click here LINK TO OUR TECHNOLOGIES>
+The DOLPHIN Smart Tracker (DOLPHIN) <LINK TO DOLPHIN LP> is arguably the world’s most compact, high-range and efficient BLE tracker. You can use DOLPHIN to not only secure daily routine valuables like your wallet <LINK TO Wallet LP>, phone <LINK TO Phone LP>, key <LINK TO Key LP> and gadgets <LINK TO Gadgets LP>, but also to secure travel items like your passport <LINK TO Passport LP>, bag <LINK TO Bag LP> and camera <LINK TO GADGETS LP>. Pet parents can also secure their pet <LINK TO Pet LP>.
+All you need to do is pair your phone (iOS or Android) with DOLPHIN. DOLPHIN helps you find your valuable, when misplaced, or alerts you if you are leaving it behind, or it is moving away from you. In case your valuable is out of range, you can view the last recorded GPS location or mark your valuable as lost, to activate community search. Every phone running the tag8 Tracker app joins in to help you find your valuable. 
+Digital Tag–Find My Phone App (leveraging Phone GPS) <To know more on technology, click here <LINK TO OUR TECHNOLOGIES>
+tag8 uses GPS technology to secure your smartphones through its Digital Tag–Find My Phone app. This is a phone tracking and anti-theft app which has an inbuilt stealth mode feature. The stealth mode feature gets activated automatically when any unusual activity is detected. The app then lets you know, via email, about the intrusion and provides you with an image and geo location of the unauthorised user accessing your phone. It also allows you to track your phone. The app gives the Finder or intruder an option to contact tag8 to return the phone. tag8 arranges to pick up the lost phone, drops it at your doorstep and rewards the Finder.
+
+How does tag8 charge for its Lost & Found solutions?
+
+All tag8 solutions are available for purchase on a one-time payment. The Digital Tag–Find My Phone app is the only exception wherein there is an annual charge.  
+
+In addition to the one-time purchase amount, in the case where tag8 arranges for pick-up of the lost valuable from the Finder and delivers it to the Owner, the cost of logistics is charged to the Owner on actual. Due to the tie ups with global logistics companies, tag8 gets a preferential rate. Prior to incurring any such cost, tag8 provides an estimate to the Owner and gets their approval. 
+
+tag8 does not charge a convenience fee for arranging the pick-up and delivery of lost valuables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USING APPLICATIONS WITH LOST & FOUND TAG
+
+
+SECTION A—REGISTRATION/ACTIVATION
+
+Does the Lost & Found tag need to be activated?
+It is essential to register the Lost & Found tag in order to activate the recovery service. 
+
+First, sign up with tag8 through any of the following options:
+
+Website — visit  
+Android app on Play Store — download tag8
+24x7 Customer Support Desk — call 9029008248
+WhatsApp — message 9029008248 
+Google Assistant— say ‘Talk to Smart Tag’
+
+Then to register, you need to provide basic information and your unique Owner ID to tag8:
+
+You will be asked to give your name, phone number and email ID, and choose a secure password
+A verification code will be sent to verify your phone number
+You will then be sent a verification link on your email ID
+After activation, you can login to tag8 with your registered email ID or phone number and password
+
+2.	What information do I need to have ready for activating the tag?
+The basic information required for activating the tag is your name, mobile number, alternate contact number, email ID, and the unique Owner ID written on the tag.  In the case of the passport tag, you also need to provide the passport number and passport expiry date.   
+Other recommended but optional information is:  
+
+Lost & Found Bag Tag—the type of bag (e.g., suitcase, handbag or backpack), the brand and colour
+Lost & Found Key Tag—the type of keys (e.g., house keys, office keys or car keys). In the case of car keys, also the vehicle brand
+Lost & Found Gadget Kit—the details of the product, gadget or item, the brand, specifications, colour and any other distinguishing features.
+
+Detailed information on the valuable significantly increases the ability to identify, track and also establish the Owners credential vis-à-vis the Finder.  
+
+3.	Can I change the information once its registered?
+
+Yes, you can change the information even after registration.
+
+To change the basic information provided by you, simply:
+
+Login to your account on 
+On the top panel, click on the ‘Hi, your name’ tab
+3 options will appear—Profile, Change password, and Logout
+Click on ‘Profile’ and make the relevant changes
+
+To change the product-specific information provided by you:
+
+Login to your account on 
+Click on the ‘My Tag’ tab. It opens a page showing Active Tags
+Scroll down to the product for which you need to change the information
+On that product, on the right-hand side, you will see the Owner ID and three dots
+Click on the dots. The option to ‘Edit’ the information will appear. Click on ‘Edit’ and make the relevant   	changes
+
+As a registered user, we encourage you to sign into your account regularly and keep your contact information updated. You can also add new items to your list or update the status of individual items. We would urge you to regularly visit our pages on policy and product update. This will allow you to maximise your membership benefits with us.
+
+4.	What is a unique Owner ID, where will I find it and what is its relevance?
+
+Each of tag8’s Lost & Found tags comes with a unique Owner ID. The Owner ID is a seven-character alphanumeric code (for example, TGUD5MB), which is printed on the Lost & Found tag, just below the barcode or QR code. We link your valuable with us through this Owner ID.
+
+The Owner ID on the tag helps maintain your privacy as you do not need to display your contact information on your valuable. In case you lose your valuable, we are able to trace it to you by matching the Owner ID (on the lost valuable) provided by the Finder, with the customer record in our database.
+
+5.	I am having problems activating my Owner ID. 
+Your Owner ID should have seven characters in an alphanumeric combination. Make sure the characters are entered correctly. A common occurrence is to enter ‘0’ instead of ‘o’ or ‘1’ instead of ‘I’.  If you are still having problems activating your Owner ID, please contact our 24x7 Customer Support Desk at 9029008248 or email us your Owner ID at support@tag8.in and we will contact you within 48 hours.  
+
+6.	How long does it take for activation of the Lost & Found tag after I have signed up and submitted the necessary details?
+
+On registration, the Lost & Found tag gets activated immediately and you can start using it on your valuable. 
+
+You will also receive a confirmation email as well as an SMS on your registered email ID and registered mobile number, respectively.  Typically, the confirmation should reach you within 2 working days from the time of registration.
+
+
+ 7.	 I have not got the confirmation email ID, what do I do?
+Please wait for 2 working days from the time of registration to receive a confirmation email on your registered email ID.
+In case you have not received the email within 2 working days, please check your emails under the ‘Spam’ folder.
+If you still do not find an email from us, please contact our Customer Support Desk at 9029008248. 
+
+8.	I haven’t got the confirmation SMS, what do I do?
+Please wait for 2 working days from the time of registration to receive a confirmation SMS on your registered mobile number.
+If you still do not find an email from us, please contact our Customer Support Desk at 9029008248.
+
+9.	I just received my tag8 product and need to travel today itself.  How can I expedite the activation?  
+
+The tag8 product is activated immediately on registration.  To register, simply fill in the form and WhatsApp on 9029008248. You do not need any lead time, simply activate and start using it. Even though you will receive a confirmation within 2 working days, as long as you have sent in the registration details, you can use the tag8 product. 
+
+
+10.	I have lost the valuable which had the Lost & Found tag on. However, I had forgotten to register the valuable with tag8. Can tag8 help me recover the lost valuable?
+
+If you can provide us with the unique Owner ID of the lost valuable, we can register your valuable with us and then generate a Lost Report. In case the Finder contacts us with your lost valuable, we shall assist you with its recovery and return of the valuable.
+However, in case you do not have the unique Owner ID of the lost valuable, we will unfortunately not be able to assist you with its recovery as we have no way of verifying who is the Owner of that valuable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION B—MANAGING THE LOST & FOUND TAGS
+11.	Is the Lost & Found tag durable?
+Yes, the tags have been scientifically designed to overcome many challenges. The tags are:
+Waterproof 
+UV protected
+Printed on industrial grade machines
+Coated with a high-quality adhesive to ensure they stick to your valuable firmly and not peel off
+
+Can I put a self-made tag with my contact details on my valuables instead of using tag8’s Lost & Found tag?
+
+Yes, creating your own tag is possible. However, apart from the unparallel durability of the tag8 physical tag (refer to point 11 above), the tag8 Lost & Found solutions offer the following features:  
+24x7 Customer Support Desk
+Privacy and confidentiality—does not divulge your personal contact information as each tag has a unique alphanumeric Owner ID 
+Global partnership to pick up the valuable from the Finder’s doorstep and delivered to the Owner
+6 easy options for the Finder to connect coupled with the Finder Reward Programme
+tag8 tracer code ensures tracking of lost luggage at airports worldwide
+tag8 bag tag is airline privacy norm compliant
+
+13.	For how long is the Lost & Found tag valid?
+The tag is valid for its lifetime. 
+
+14.	What if my Lost & Found tag breaks or fades?
+All Lost & Found tags come with a one-year warranty. The tag is made of durable material to withstand frequent use and exposure to external conditions. In case the tag cracks, fades or breaks within the warranty period, tag8 will, on submission of the existing tag, replace the damaged tag with a new one. 
+You can do this by logging into your account and clicking on ‘Replace Tag’ to get a free replacement. Please note that your old tag ID will be deactivated from our system once you request a replacement.
+
+15.	Is the Lost & Found tag transferable?
+Yes, the Lost & Found tag is transferable. In case you transfer the ownership of your tagged valuable, the ownership of the tag can also be transferred. The new owner will activate the tag in his/her name. All you will be required to do is to approve the transfer, through the click of a button, from your own account.   
+
+
+
+SECTION C—REPORTING LOSS   
+
+16.	Is the tag8 Lost & Found service available globally?
+
+Yes, tag8 is a global Lost & Found recovery service. We pick up your lost valuable from anywhere in the world and deliver to your home or any other location of your choice.
+
+
+17.	What should I do in case I lose my product?
+We encourage you to immediately report the loss of your valuable to tag8, with as much information as can be provided from your end. You can report the loss through any of the following options:
+Website—
+Android app on Google Play Store—tag8
+24x7 Customer Support Desk—9029008248
+Google Assistant—‘Talk to Smart Tag’
+
+If you have a latest photograph of the lost item, the search becomes easier.  We also encourage you to supplement our Finder Reward Programme. 
+
+Further, if you have lost a bag in airline custody, do provide the airline with the tag8 unique Owner ID while you file the missing bag report. 
+
+18.	How to report a loss on the tag8 app or website?
+
+Reporting a loss on the tag8 website:
+Go to  and login with your credentials.
+When you login, our Homepage will appear. Click on your name which appears next to the ‘My Tags’ tab.
+Click on ‘Profile’.
+Now, on the left-hand side, there will be options such as ‘My Tags’, ‘Activate Tags’, ‘Transfer Tags’, and so on. 
+Click on ‘My Tags’, the ‘My Tags’ option will expand. Then click on ‘Active Tags’.
+Go to the particular asset which is lost.
+There are three dots at the right-hand side corner of every asset. Click on those three dots. Next, click on ‘Report Lost’. Finally, give all your lost details and report the loss. 
+
+Reporting a loss on the tag8 android app on your mobile:
+Download the tag8 app and sign in with your details.
+After successful verification, login into the app.
+You will see three tabs—‘Activate Tag’, ‘Report Found’, and ‘Report Lost’.
+Click on ‘Report Lost’, give all your lost details and report the loss.
+
+Reporting a loss through the 24x7 Customer Support Desk:
+Call on 9029008248. The customer support representative will help you report the loss.
+
+Reporting a loss through Google Assistant:
+Open Google Assistant and say ‘Talk to Smart Tag’
+Say ‘lost’ for reporting a lost item. You will be asked to select the type of tag which has been lost. For example, a passport tag, a bag tag or a key tag.
+You will be prompted to give details such as your phone number, last location and Owner ID.
+The assistant will give you a confirmation message.
+
+18.	What if I am unable to report loss of a registered product immediately?
+It is alright even if you don’t report the loss immediately.  The moment the Finder calls in with details of your valuable, we will verify its condition and the rest of the process will remain the same. 
+However, in order to expedite search for your valuable via our network, we urge each user to immediately register the lost valuable through their account or our call centre. 
+
+19.	What is the return rate for lost items?
+Our Finder Reward Programme has registered a return of over 80% on several categories of lost valuables. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION D—REPORTING FOUND
+
+20.	Why should anyone call the number on the tag?
+
+After extensive surveys, we found that the main reasons for Finders not taking the initiative to return found valuables were:
+
+Unable to identify the Owner 
+The logistics of return were cumbersome
+The risk of being held accountable by the Owner for any missing item, especially items lost in public transportation
+No personal motivation
+Just lack of time 
+
+The tag8 solution has been built specifically to take into account these challenges.  Our Finder Reward Programme has registered a return of over 80% on several categories of lost valuables.
+
+21.	What is the reward?
+
+The Finder is rewarded with:
+
+A Recognition certificate
+Sponsored gifts and/or 
+tag8 products (for Finders outside India – an Amazon gift card worth US$50) 
+
+We also encourage owners to offer an optional monetary reward to the Finder.
+22.	How to report a found item, if I found someone’s passport, bag or key? 
+You can reach out to tag8 and inform us about the found item through any of the following options: 
+Website—
+Android app on Google Play Store—tag8 
+Scan the QR code on the tag
+24x7 Customer Support Desk—9029008248
+NFC—tap your NFC-enabled phone on the NFC icon on our tag
+Google Assistant—‘Talk to Smart Tag’
+
+Reporting found on the tag8 website:
+Go to our website 
+On the Homepage on the right-hand side click on the icon ‘Register or Report’. 
+Enter the Owner ID which you see on the tag you found. Then click on ‘Report Found’.
+
+
+Reporting found on the tag8 android app on your mobile:
+Download our app tag8.
+On the login page below login option, there is an option called ‘Report a Found Product’.
+Click on that option, then type in the Owner ID of asset that you found.
+Click on the yellow button that says ‘Report Found’ to complete.
+
+Reporting found by scanning the QR code:
+Scan the QR code on the tag with the QR code scanner in your phone.
+The screen shows a weblink http://tag8.in/tags/reportfoundstep1 and also shows an icon to ‘Open’.
+Clicking on either of the above will open a page where you can enter the Owner ID given on the product and report the find.
+
+Reporting found through the 24x7 Customer Support Desk:
+Call on 9029008248. The customer support representative will help you report the find.
+
+Reporting found through Google Assistant:
+Open Google Assistant and say, ‘Talk to Smart Tag’.
+Say ‘found’ for reporting a found item. You will be asked to select the type of tag which has been found. For example, a passport tag, bag tag, or key tag.
+You will be prompted to give certain details such as your phone number, last location and Owner ID.
+The assistant will give you a confirmation message.
+
+
+PASSPORT 
+
+1.	How do I secure my passport with the Passport Finder Case?
+
+For securing your passport, you simply need to put your passport into the Passport Finder Case. Put the back of the passport into the right-hand side opening of the case.  It has been designed to ensure that the once you put the passport into the passport case, it will be adequately secured and will not slip out.   
+Do not however, put the entire passport into the right-hand side opening.  Please note that at most immigration checks, you are required to pull out the passport from the case and hand it over to immigration officers. You can also put two passports in the same Passport Finder Case, one under each flap; or up to six passports in the Family Passport Finder Case <LINK TO PASSPORT LP>.
+You need to Register the Lost & Found tag at the back of the passport to activate it.  
+
+In case you have a Smart Passport Case with the DOLPHIN attached to it, you will also need to download the tag8 tracker app on your smartphone and pair DOLPHIN with the app. For further information on how to get started with DOLPHIN, please click here <LINK TO DOLPHIN FAQs>.
+
+
+2.	What are the features of the Passport Finder Case? How do I choose between the different variants?
+
+tag8’s Passport Finder Case comes with certain basic features which are present in all the variants. These are:
+
+An over 90% return rate for Passports;
+If we can’t recover it, we reimburse the cost of getting a new passport;
+Worldwide coverage, subject to the local laws of the country;
+Lifetime Lost & Found service;
+24x7 Customer Support Desk for lost passport and global logistics support;
+6 easy options for the Finder to connect with us coupled with the Finder Reward Programme;
+Passport expiry alert;
+The case protects your passport from damage and can hold two passports.
+
+Additionally, tag8 has other variants with some or all of the following features:
+
+100% genuine leather
+RFID blocking
+Separation alarm
+Community search
+GPS location tracking
+Configurable alert range
+Ring to find
+Shutter button to click a selfie
+
+You can see a comparative analysis of different variants here to choose the variant you wish to buy <LINK TO PASSPORT LP COMPARATIVE ANALYSIS>.
+
+Please note that while we have worldwide coverage, the ability to pick up and deliver the passport is still subject to country-specific regulations.
+
+ 
+3.	What is your policy for reimbursement in case of loss of passport?
+In case we are unable to recover your lost passport, we reimburse you the cost of getting a new passport. For a passport issued by Indian authorities, the amount of reimbursement is equal to the actual cost of obtaining a new passport under the Tatkal Scheme. For passports issued by another country, our reimbursement is for the actual cost incurred (i.e., the charges paid to the embassy) in getting a new passport, subject to a limit of Rs 10,000. 
+In the case of loss of a Family Passport Finder Case, the reimbursement policy would apply to the one passport that had been registered with tag8.
+
+Documents to be submitted for claiming the reimbursement are:
+
+Documentary evidence of loss of passport (a copy of FIR or lost report filed with the police or any government authority
+A copy of the application filed for a new passport from the Passport Seva Kendra or foreign passport issuing authority
+The original receipt for the application fee for the new passport
+
+The reimbursement will be made within seven working days of submitting the completed set of documents.
+
+Please note that the reimbursement policy is valid only in case the passport is lost during travel or during the process of applying for a visa or for any other travel-related purposes.  
+
+
+4.	I have misplaced my passport. I kept it somewhere and I am not able to locate it. Can I claim reimbursement for the cost of getting a new passport?
+
+No. Our Lost & Found services are applicable only in case of loss of passport at a public place, where there is a possibility for a Finder to find the passport and contact us to return it. In case you have lost the Smart Passport Case, you could ring DOLPHIN attached to the case through the tag8 Tracker app in your phone. If the passport is within DOLPHIN’s range, you will locate it.
+
+Our services do not apply in case you misplace your passport at home or have kept it somewhere and cannot find it or recall where you have last seen it. In such a situation, the reimbursement clause will not apply.
+
+5.	What is the Passport Expiry Alert feature?
+
+Most countries require that your passport has at least six months validity remaining after your intended departure from the country you are visiting. It is advisable to check with Embassies of the countries you are planning to visit for passport validity requirements.
+
+Therefore, we send you an alert one year before your passport is due to expire, to ensure that your travel plans are not hindered on account of an expired passport.
+
+6.	What is the RFID blocking feature in Passport Finder Case?
+
+Radio Frequency Identification Device is known as RFID. An RFID microchip is present in several credit/debit cards and also in some passports. These days identity theft via RFID readers (i.e., skimming) is growing. A person with a skimming gadget can steal your credit card number or personal information just by being in your proximity. RFID blocking prevents the microchip from being read, thereby keeping your data safe.
+
+The RFID blocking feature in the Passport Finder Case prevents others from stealing your personal information from the Passport Finder Case. Information in the passport/credit/debit cards kept in the Passport Finder Case cannot be scanned by such electronic thieves.
+
+7.	How long does it typically take to find a lost passport?
+
+Passport cases with Lost & Found tags are generally found within 4-6 hours of getting lost. However, since we rely on the Finder to inform us about the lost passport, the timeline could differ significantly from case to case.
+
+In case you are using a Smart Passport Case with DOLPHIN, you can use the tag8 tracker app to find your passport as soon as you realise you have lost it. For details on the features of DOLPHIN which help in finding the lost valuable, please click here <LINK TO DOLPHIN LP> 
+
+8.	My travel insurance covers the loss of my passport. How is your Lost & Found service different from an insurance policy?
+
+An insurance claim gets activated only when the passport is declared lost.  An insurance company, based on the specific policy, settles the claims made by the traveller.  In the case of tag8, the primary objective is to find the lost passport.  For a traveller, the best-case scenario is getting the lost passport back. It saves them from changing travel plans, going through the trouble of getting a travel document from the embassy that is required to travel back home and once home, having to apply for a new passport and visas. For several people, their passports also carry significant emotional value, given its the authentic record of all their travels with dates.
+
+In addition, to claim travel insurance, a customer needs to prove that he or she wasn’t negligent.  In the case of tag8, the reimbursement is subject to the fulfilment of the stated condition, no questions asked.  Also, tag8 services are for a lifetime, while travel insurance policies correspond to either the specific travel or at best is on an annual plan.   
+
+tag8 works with several insurance companies to provide tag8 solutions to their customers, as a Value-added Service.
+
+
+
+
+
+
+
+
+
+
+BAG 
+
+1.	How do I secure my bag tag8?
+
+With tag8 you can secure your bag with either the Lost & Found bag tag or with the DOLPHIN tag. 
+
+Lost & Found Bag Tag
+The Lost & Found bag tags are made of high-performance epoxy tag material. The tags are waterproof and UV protected. The bag tag can simply be attached to your bag at an easily visible spot. You then need to simply Register to activate it. 
+
+tag8 has tied up with SITA, the global leader in airline baggage management and tracking (www.sita.aero), for strengthening the Lost & Found services provided with the Lost & Found bag tag, for bags lost at airports. SITA provides the WorldTracer Code which is used by more than 500 airlines and ground handlers at over 2,800 airports worldwide. Being a global tracing and matching database, it can trace bags faster. tag8’s tie up with SITA helps you recover your lost bags faster at over 2,800 airports across the world. 
+
+For bags lost outside the airport, tag8 relies on the Finder for recovering the lost bag and upon receiving information from the Finder, arranges to pick up your lost bag and delivers it to you, anywhere in the world.
+
+The Lost & Found process in the case of bags works as follows:
+
+In the case of loss of bag inside the airport:
+
+You lose the bag with tag8’s bag tag
+The airport baggage handler sees the bag tag and scans the WorldTracer Code
+tag8 gets an alert that a bag has been found
+tag8 coordinates with you and the airport authorities and the bag is returned to you
+
+In the case of loss of bag outside the airport:
+
+You lose the bag with tag8’s bag tag
+Someone finds the bag and contacts tag8
+tag8 arranges to pick up the lost bag from the Finder and returns it to you 
+tag8 rewards the Finder
+
+
+DOLPHIN 
+DOLPHIN <LINK TO DOLPHIN LP> is a compact, high-range and efficient BLE tracker. You can use DOLPHIN to secure your bag<LINK TO BAG LP>.
+You need to simply pair your phone (iOS or Android) with DOLPHIN. DOLPHIN helps you find your bag when misplaced, or alerts you if you are leaving it behind, or it is moving away from you. In case your bag is out of range, you can view the last recorded GPS location or mark your bag as lost, to activate community search. Every phone running the tag8 tracker app joins in, to help you find it.
+
+2.	What are the features of the Lost & Found Bag Tag and the DOLPHIN Tag?
+
+For features of both bag tags, click here <LINK TO BAG LP>. 
+
+3.	What is the benefit of SITA WorldTracer mentioned on the Bag Tag?
+
+SITA is a global leader in airline baggage management and tracking. tag8 is a SITA member. SITA provides the WorldTracer Code which is used by more than 500 airlines and ground handlers at over 2,800 airports worldwide. Being a global tracing and matching database, it can trace bags faster. The WorldTracer Code works in the following manner:
+When a passenger realises that luggage is missing at the airport, he/she files a Property Irregularity Report (PIR) report with the airline staff. The airlines that use the WorldTracer Code, update the details of the missing baggage in the WorldTracer System. Details such as the make and model of the bag, colour of the bag, description of the contents or any special identification on bags is updated into the system under an AHL (Advise if Holding) file.
+In a similar manner, whenever an airline staff member finds lost baggage, they update similar details into the system under an OHD (On Hand Baggage) file. 
+The system matches the AHL files with the OHD files. The airline baggage tracing staff then picks up the OHD file with highest matching percentage and coordinates with the other airline who has the bag in their custody.
+An additional benefit that the Lost & Found bag tags provide, is that the baggage handling staff who find your lost bag, inputs the tag8 unique Owner ID in the WorldTracer system. The WorldTracer server sends information to the tag8 server about the location of the bag. We then inform our customer and provide them with their file reference number, so that they can follow-up with the concerned airline for the recovery of the lost bag.
+
+
+4.	If I put Lost & Found Bag Tag on my check-in bag and the bag is lost by the airline, can the tag improve the chances of finding my bag?
+
+Yes. Please refer to the response to Question 3 of our Bag section. 
+
+
+5.	If I register the Lost & Found Bag Tag in my name, can anyone else in my family also use it?
+
+Yes, the Lost & Found bag tag can be used by anyone in your family. However, it is advisable to update the details of the bag being secured by the tag on our website. Also, in case the bag with this tag is lost by your family member and found by someone, the intimation will be sent on the number which is registered with us.
+
+
+6.	My travel insurance covers the loss of my bag. How is your service different from an insurance policy?
+
+An insurance claim gets activated once the bag is declared lost.  An insurance company, based on the specific policy, settles the claims made by the traveller.  In the case of tag8, the primary objective is to find the lost bag.  For a traveller, the best-case scenario is getting the lost bag back. It saves them from losing their unique and irreplaceable valuables and the inconvenience of going through the process of making claims with insurance companies or airlines and substantiating the contents of the bag. 
+Also, tag8 services are for a lifetime, while travel insurance policies correspond to either the specific travel or at best is on an annual plan.   
+
+tag8 works with several insurance companies to provide tag8 solutions to their customers, as a Value-added Service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KEY 
+
+1.	How do I secure my key with tag8?
+
+With tag8, you can secure your keys either with the Lost & Found key tag or with the DOLPHIN.
+
+Lost & Found Key Tag
+The Lost & Found key tag can simply be attached to your keys. 
+Thereafter, register the keys with tag8 by providing the necessary information and the unique Owner ID number on the key tag. For details on the activation of the tag, please refer to the section ‘Activation of Tag’. Your tag will get activated within 2 working days from the day on which the registration details are submitted. 
+
+The Lost & Found process in the case of key tags works as follows:
+
+You lose the key with tag8’s Lost & Found key tag
+Someone finds the key and contacts tag8
+tag8 arranges to pick up the lost key from the Finder and returns it to you 
+tag8 rewards the Finder
+
+
+DOLPHIN 
+DOLPHIN <LINK TO DOLPHIN LP> is a compact, high-range and efficient BLE tracker. You can use DOLPHIN to secure your keys <LINK TO KEY LP>.
+You need to simply pair your phone (iOS or Android) with DOLPHIN. DOLPHIN helps you find your keys when misplaced, or alerts you if you are leaving it behind, or it is moving away from you. In case your keys are out of range, you can view the last recorded GPS location or mark your keys as lost, to activate community search. Every phone running the tag8 tracker app joins in, to help you find it.
+
+2.	What are the features of the Lost & Found Key Tag and DOLPHIN?
+For features of both products, please click here <LINK TO KEY LP> <LINK TO DOLPHIN LP>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ GADGETS
+
+1.	How do I secure my gadgets with tag8?
+You can secure your gadgets with either the Lost & Found gadget tag or with the DOLPHIN.
+Lost & Found Gadget Tag
+The Lost & Found gadget tag can be used as a stick-on tag which you can simply stick to your gadget. 
+Then, register the gadget with tag8 by providing all necessary information and the unique Owner ID number on the gadget tag. For details on the activation of the tag, please refer to the section ‘Activation of Tag’. Your tag will get activated within 2 working days from the day on which the registration details are submitted. 
+
+The Lost & Found process in case of the Lost & Found gadget tags works as follows:
+
+You lose the gadget with tag8’s Lost & Found gadget tag.
+Someone finds the gadget and contacts tag8.
+tag8 arranges to pick up the lost gadget from the Finder and returns it to you. 
+tag8 rewards the Finder.
+
+DOLPHIN 
+DOLPHIN <LINK TO LP> is a compact, high-range and efficient BLE tracker. You can use DOLPHIN to secure your gadget.
+You need to simply pair your phone (IOS or Android) with DOLPHIN. DOLPHIN helps you find your gadget when misplaced, or alerts you if you are leaving it behind, or it is moving away from you. In case your gadget is out of range, you can view the last recorded GPS location or mark your gadget as lost, to activate community search. Every phone running the tag8 tracker app joins in, to help you find it.
+For gadgets that come with accessories, such as cameras with lenses and a camera bag, you may find that a mix of both kinds of gadget tags (Lost & Found gadget tags & DOLPHIN gadget tag) is ideal for securing your gadget and its accessories. You may choose to secure your camera with a DOLPHIN using BLE technology and may want Lost & Found Gadget tags for the lenses or camera bag. Keeping that in mind, tag8 also offers a Gadget kit which comprises DOLPHIN tag and Lost & Found gadget tags. To view, please click here <LINK TO THE GADGET KIT (comprising of mix of both tags) in STORES>.
+
+2.	What are the features of the Lost & Found Gadget Tag and DOLPHIN?
+For features of the Lost & Found gadget tag and DOLPHIN, please click here <LINK TO GADGET LP>.
+
+3.	What does the Lost & Found Gadget Kit comprise of?
+
+The Lost & Found Gadget Kit is a set of tags, carefully designed to secure valuables that lend themselves well to tagging:
+Electronic gadgets such as mobile phones, laptops, tablets, cameras and accessories, MP3 players and headsets, and USB drives
+Items of daily use such as watches, sunglasses, wallets, textbooks, important documents including medical records and legal documents
+Sports equipment including golf clubs, sports bag, racquets, helmet, hockey sticks, gloves or even your child’s favourite toy
+Musical instruments
+
+4.	How do I apply the tags in the Gadget Kit to my belongings?
+
+The tags in the Gadget Kit are stick-on tags. Please take into consideration the following while applying tags to your valuable.
+Make sure the surface area of the registered valuable is clean
+Do not place the tag in a cluttered place in the midst of a number of labels or stickers; this will hamper the visibility of the tag
+Carefully peel off the tag from its holder, apply it on a flat surface of your valuable away from any other tags and press firmly to seal the adhesive
+Make sure it is does not get stuck to any of the corners, to a curved or sharp surface or edge. You run the risk of the tag not being effective when it tears or comes off
+A period of 3 hours should be allowed for the tag to grip firmly to the product
+
+5.	Will the tag spoil the surface of my product?
+The material of the tag and the adhesive are internationally tested for quality purposes. Results have proven that the efficacy of the product will not be compromised. Also, the tag enjoys transferable ownership, and hence there is no need to peel off the tag even if you are selling the valuable or passing it on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+SMART WALLET TRACKER
+1.	How does tag8 help me secure my wallet?
+The Smart Wallet Tracker is a next generation solution that helps you find your wallet when it’s misplaced and also safeguards it from theft, including the theft of digital data stored in the cards carried in your wallet. All of this is packaged in genuine leather, without sacrificing the style and design in any way. 
+DOLPHIN
+The Smart Wallet Tracker is powered by DOLPHIN, a compact, high-range and efficient BLE tracker. DOLPHIN helps you find your wallet when misplaced, or alerts you if you are leaving it behind, or it is moving away from you. In case your wallet is out of range, you can view the last recorded GPS location or mark your wallet as lost, to activate community search. Every phone running the tag8 tracker app joins in, to help you find it.
+You simply need to pair your phone (iOS or Android) with the DOLPHIN attached to your wallet. Thereafter, while you are occupied in your pursuits, tag8 ensures that your wallet is secure.
+
+2.	What are the features of the Smart Wallet?
+For features of the Smart Wallet, please click here <LINK TO WALLET LP>.
+
+3.	What is the battery life of DOLPHIN?
+DOLPHIN has a replaceable battery. The battery life is typically over 6 months though that would vary depending upon usage. When needed, you can replace the old battery with a new one (CR2016).
+
+Please note, that the battery is splash proof only. To avoid irreparable damage, do not immerse the device in water.
+
+Is there a Warranty period?
+There is a 1-year warranty on manufacturing defects, i.e., defects in the material and manufacturing process. It does not cover product components that are subject to normal wear and tear, or fragile components (such as, switches, batteries or the casing). Should there be a manufacturing defect within 1 year of your purchase, it will be repaired or replaced free of charge. However, consumer-inflicted damage, improper use or incorrect maintenance of the product will void the warranty.
+
+What is the range of DOLPHIN? 
+
+DOLPHIN relies on Bluetooth to communicate with the app. Therefore, Bluetooth is an important permission to enable when you are pairing DOLPHIN with your phone.
+DOLPHIN helps you secure your valuables within a range of up to 100 feet or 30 meters (clear sight). The effective range of Bluetooth signals may, however, be impacted by the environment and the extent of obstructions (such as furniture or walls in the way) between DOLPHIN and the phone.
+Even when DOLPHIN goes out of the Bluetooth connectivity range, you can check its last known GPS location on the app. Further, this information gets updated automatically whenever anyone using the tag8 tracker app passes by your valuable and comes within its Bluetooth range. 
+
+Can I know how far is my valuable from the phone?
+When DOLPHIN is within the Bluetooth range of the phone, the screen shows that DOLPHIN is connected to the phone. The more green signals you see on the screen, the stronger the signal is and that means the closer you are to DOLPHIN. The lesser the green signals, the greater the distance between DOLPHIN and the phone. So when you are looking for your lost valuables and the green circles start increasing on the phone, it means you are getting closer to your valuable. However, please note that the strength of Bluetooth signals may get impacted by obstructions in the environment.
+
+Can I modify the volume of the alert sound of DOLPHIN?
+No, presently it is not possible to modify the volume of the alert sound of DOLPHIN.
+
+How do I take care of the leather?
+Leather, just like our skin is a natural product that needs attention if you want it to last as long as possible and look as good as new—or better. 
+Cleaning your wallet:
+Your wallet will most likely become dirty from daily use, so it is recommended that you clean it with a damp cloth as soon as you notice some dirt or stains. If the dirt or stain has already set in, use a good leather cleaner to remove it. A good leather cleaner or conditioner will only remove the stain and not the dye. Do not use soap or detergents as they may affect the dye or treatment of the leather. 
+In case your wallet gets wet, gently wipe the surface clean with a dry, clean cloth and allow it to dry at room temperature. Keep your wallet closed (bifold), don't leave it open or it will not lay flat anymore when folded. To keep the original shape of your leather wallet insert a credit card on each side of the billfold, do this only after you let the wallet dry for about an hour. Do not use a blow dryer or expose your wallet to extreme heat since that will cause the leather to become wrinkled.
+
+Conditioning your wallet: 
+You will know that your wallet needs conditioning if you start seeing a few cracks. Leather requires some moisture to keep it smooth and soft. 
+Gently apply a leather cream or leather moisturiser to your wallet. Only apply a small amount, you can always add more later if you feel that your wallet is still dry.
+Do not let your wallet get too dried out before applying moisturiser. 
+
+ 
+
+PHONE TRACKER
+How does tag8 help me secure my phone?
+
+Free version: In case, you lose your phone, check your email for alerts. 
+If unusual activity has been detected on your phone, you will receive an email alert 
+Also, a Return option appears for the Finder on the locked screen and a message warning him that the phone is being tracked 
+If the Finder clicks on the Return option, you will receive an email alert informing you about the Finder’s Name and Mobile Number 
+You can then coordinate with Finder to reunite with the phone 
+Premium version: In case, you lose your phone, 
+Log-on to the web-panel and make sure the lost mode is active 
+You can track your phone's geolocation real-time and remotely ring the phone (even if phone is on silent. Note: permission needs to be provided during installation) 
+If any unusual activity has been detected on your phone, an image of the intruder and his geolocation will be sent as an email alert or can be seen on the website dashboard 
+If you are unable to locate the phone, you can connect with tag8’s 24x7 Customer Support Desk 
+tag8’s 24x7 Customer Support Desk will assist you with additional evidence to track the phone 
+tag8 will also assist in coordinating with the Finder, picking up the Lost Phone, delivering it to the Owner and rewarding the Finder
+
+Do I get help in filing a police complaint?
+
+Free version: Please upgrade to Premium version, this service is not available in Free version. 
+Premium version: Yes, Premium users get a customised Police complaint report with evidence that can be submitted to the police station for filing a missing phone complaint. Since there is evidence in the report, there is a higher possibility of action from the law enforcement agencies.
+Is my privacy Secured? Does tag8 track my phone 24x7?
+Yes, your privacy is our utmost priority and we have set the processes in place to protect the same. We DO NOT track your phone, until the lost mode is triggered.
+
+
+I have multiple mobiles—Can I secure them?
+
+Free version: Yes, it is possible to secure more than one device under the same google account. The Digital Tag—Find My Phone app will have to be installed using the same google account on other devices as well. 
+Premium version: Yes, it is possible to secure more than one device under the same google account. The Digital Tag—Find My Phone app will have to be installed using the same google account on other devices as well.
+
+If I accidentally wipe my phone’s data using a wipe data feature can I recover the data ?
+No, the wipe data feature factory resets the phone and wipes all the data present in the phone, you cannot recover the data once it is wiped.
+For further information on how to get started with the Phone Tracker and its features, please click here <LINK TO DIGITAL TAG FAQs>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOLPHIN
+
+What is DOLPHIN?
+Dolphin is a compact, high-range and efficient Bluetooth (BLE 4.0) tracker.  You could use DOLPHIN to secure your daily routine valuables such as wallet, phone, key, laptop and also to secure your travel items such as passport, bag, camera and more. Pet parents can also secure their pet.    
+How does DOLPHIN help me secure my valuable?
+You simply need to attach DOLPHIN to the valuable being secured and then pair your phone (iOS or Android) with DOLPHIN. 
+DOLPHIN, through its following features, helps you keep your valuable secure, find your valuable when misplaced, or alerts you if you are leaving it behind.
+Separation alarm: Alarm rings on your smart phone and DOLPHIN as soon as your valuable goes out of range
+Configurable alert range: Set alert range (far alert or very far alert) based on your requirement. Alert alarm is triggered based on the set range
+Ring to Find: In case you misplace your valuable in a close range, you can ring DOLPHIN through the app and locate your valuable around you. In case you misplace your phone, you can press the button on DOLPHIN to ring your phone and locate it too
+GPS location tracking: GPS location of DOLPHIN is available real time; even when phone is disconnected, the last seen location is available
+Community search: Mark your valuable as lost to activate community search. Every phone running the tag8 tracker app joins in, to help you find it
+DOLPHIN also comes with a shutter button which helps you take a selfie
+3.	Which devices are compatible with DOLPHIN?
+The devices compatible with DOLPHIN are:
+For iOS: From version 11 and newer.
+For Android: Android 4.3 or newer and BLE 4.0 supported.
+
+For further information on how to get started with DOLPHIN and its features, please click here <LINK TO DOLPHIN FAQs>.
+
+
+
+
+
+DATA PRIVACY
+How safe is my personal data with tag8?
+Your data safety and security are of the utmost importance to us.  tag8 is bound to not share or provide access to your data, unless it is required for a regulatory reason or sought by law enforcement.  
+For a more detailed read on our data and privacy policy, kindly refer to the section on ‘Data Privacy’ at https://tag8.in/page/terms-and-conditions.
+
+STORES
+1.	Is there an option for Cash on Delivery? 
+No, the cash on delivery option is not available on our website store.
+
+2.	Are tag8 products available on other online platforms?
+Yes, tag8 products are available on both Flipkart and Amazon. You can find the link on our in-house store .
+
+NFC FEATURE
+What is the NFC feature in tag8’s products?
+NFC refers to Near Field Communication (NFC) feature. Many mobile handsets are enabled with NFC. An NFC-enabled device allows wireless communication with an NFC tag that comes within a 10 cm range. NFC tags are passive chips which are powered by the radio frequency of the reading device. NFC tags can be used for a large number of customised applications for productivity, utility or just sheer fun!
+Not all our products come with NFC tags. When a person taps their NFC enabled phone on the NFC icon on our tag, the tag8 website opens on their screen.
+Note: You can check if your mobile phone has NFC by checking the Phone Setting: Settings>Wireless & Networking>More. If NFC is listed, it should be turned on for use. You would need to download an NFC writer-Android app (from the Android App Store such as NFC Tasker or Tag Writer).
+
+
+
+
