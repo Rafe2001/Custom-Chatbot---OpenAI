@@ -28,7 +28,7 @@ def construct_index(directory_path):
 def main():
     st.title("Tag8 Chatbot")
     st.header("This is Tag8's chatbot answering your Queries")
-    os.environ['OPENAI_API_KEY'] = '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'
+    os.environ['OPENAI_API_KEY'] = 'Paste your API Key'
 
     if st.button("Construct Index"):
         with st.spinner("Constructing Index..."):
